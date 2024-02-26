@@ -1,0 +1,27 @@
+/* style.css */
+
+#alphabet {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 200px;
+}
+
+#stop {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#stop:hover {
+    background-color: darkred;
+}
